@@ -120,13 +120,17 @@ Each entry should include:
 - Level of Awareness (1-10)
 - Notes
 
-Example:
+## Example Entries
 
-| Time | Activity | Category | Awareness |
-|--------|--------|--------|--------|
-| 7:00 AM | Morning Stretching | Preparation | 8 |
-| 12:00 PM | Lunch While Scrolling Phone | Sustainment + Distraction | 3 |
-| 8:00 PM | Reflective Journaling | Reflection | 9 |
+| Time | Direction Type | Target Area | Intended Function | Awareness |
+|--------|--------|--------|--------|--------|
+| 7:00 AM | Conscious Muscular Activation | Legs and Core | Use focused attention and movement to improve stability, circulation, and coordination before daily activities | 8 |
+| 12:00 PM | Nutrient Delivery | Digestive System and Cells | Provide water, electrolytes, protein, vitamins, and energy required for maintenance, repair, and function | 7 |
+| 3:00 PM | Temperature Regulation | Full Body | Consciously cool the body through hydration, shade, and breathing in response to heat stress | 6 |
+| 6:00 PM | Skin and Tissue Contraction | Skin, Muscles, and Internal Systems | Activate contraction and relaxation processes to improve circulation, recovery, and system regulation | 8 |
+| 9:00 PM | Recovery and Healing Support | Nervous System | Reduce stimulation, promote relaxation, and allocate resources toward repair and recovery | 9 |
+``
+
 
 ## Exercise Note
 
