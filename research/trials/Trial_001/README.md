@@ -7,12 +7,6 @@ created: 2026-10-12
 author: Christopher Michael Masayasu Okada
 license: CC-BY-4.0
 ---
-
-# Trial 001: Daily Direction Audit
-
-## Research Question
-...
-
 # Trial 001: Daily Direction Audit
 
 ## Purpose
@@ -162,4 +156,11 @@ Healthy systems depend upon the ability to:
 3. Respond appropriately.
 4. Adapt over time.
 
-This trial explores how these principles may operate within daily life.
+## Trial Objective
+
+This trial does not attempt to measure activity alone.
+
+Instead, it attempts to measure the degree to which an individual intentionally observes, understands, and directs biological processes throughout a 24-hour period.
+
+The central assumption of this trial is that awareness, feedback, and appropriate response are essential components to support immediate recovery.
+
