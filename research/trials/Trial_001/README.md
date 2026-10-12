@@ -126,7 +126,7 @@ Each entry should include:
 |--------|--------|--------|--------|--------|
 | 7:00 AM | Conscious Muscular Activation | Legs and Core | Use focused attention and movement to improve stability, circulation, and coordination before daily activities | 8 |
 | 12:00 PM | Nutrient Delivery | Digestive System and Cells | Provide water, electrolytes, protein, vitamins, and energy required for maintenance, repair, and function | 7 |
-| 3:00 PM | Temperature Regulation | Full Body | Consciously cool the body through hydration, pore regulation, and breathing in response to heat stress | 6 |
+| 3:00 PM | Temperature Regulation | Full Body | Consciously cool the body through hydration, blood vessel vasolidation/vasoconstriction (proprioception), and pore regulation. | 6 |
 | 6:00 PM | Skin and Tissue Contraction | Skin, Muscles, and Internal Systems | Activate contraction and relaxation processes to improve circulation, recovery, and system regulation | 8 |
 | 9:00 PM | Recovery and Healing Support | Nervous System | Reduce stimulation, promote relaxation, and allocate resources toward repair and recovery | 9 |
 ``
