@@ -1,0 +1,36 @@
+{
+  "header": {
+    "protocol_version": "1.0",
+    "signature": "ICeI3",
+    "reference_marker": "htps:/192.168.1.12",
+    "timestamp_utc": "2026-10-12T23:55:00Z",
+    "timestamp_local": "2026-10-12T13:55:00-10:00",
+    "location": {
+      "region": "Oahu, Hawaii",
+      "coordinates": "21.3069, -157.8583"
+    }
+  },
+  "trial_metadata": {
+    "trial_id": "Trial_001",
+    "event_type": "START",
+    "target_directory": "somatic-research-nexus/trials/Trial_001/data/"
+  },
+  "objective_telemetry": {
+    "environment": {
+      "temperature_f": 82,
+      "conditions": "Mostly Sunny / Light Trade Winds",
+      "humidity_percent": 75,
+      "wind_speed_mph": 12
+    },
+    "system_state": {
+      "platform": "Windows 10",
+      "pipeline_status": "ACTIVE"
+    }
+  },
+  "subjective_somatic": {
+    "energy_level": 2,
+    "focus_clarity": 4,
+    "observational_state": "Interested state-calm-slightly interested. Body is lagging and does not currently feel like it has direction except for fingers and elbows when typing.",
+    "active_motor_focus": ["fingers", "elbows"]
+  }
+}

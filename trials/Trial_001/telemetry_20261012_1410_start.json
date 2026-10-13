@@ -1,0 +1,40 @@
+{
+  "header": {
+    "protocol_version": "1.1",
+    "signature": "ICeI3",
+    "reference_marker": "htps:/192.168.1.12",
+    "timestamp_utc": "2026-10-13T00:10:54Z",
+    "timestamp_local": "2026-10-12T14:10:54-10:00",
+    "location": {
+      "address": "3741 Poka Place, Honolulu, HI 96816",
+      "coordinates": "21.2858, -157.8025"
+    }
+  },
+  "trial_metadata": {
+    "trial_id": "Trial_001",
+    "event_type": "START",
+    "target_directory": "trials\\Trial_001"
+  },
+  "objective_telemetry": {
+    "environmental_influences": {
+      "temperature_f": 83.1,
+      "relative_humidity_percent": 61,
+      "surface_pressure_hpa": 1009.4,
+      "solar_radiation_w_m2": 707.0,
+      "cloud_cover_percent": 20,
+      "wind_speed_mph": 9.2,
+      "wind_gust_mph": 26.4,
+      "data_source": "Open-Meteo Environmental Reanalysis API"
+    },
+    "system_state": {
+      "platform": "win32",
+      "python_version": "3.12.10",
+      "pipeline_status": "ACTIVE"
+    }
+  },
+  "subjective_somatic": {
+    "energy_level": 3,
+    "focus_clarity": 5,
+    "observational_state": "Eyes are currently focused. Fingers, elbows, and knees seem to be areas of concentration. Body seems to be relaxed and in a state of uknowing or no physical or mental acknowledgement of different process or functions occuring and needing to occur for a true neural somatic relationship even in a relaxed state while typing this."
+  }
+}
