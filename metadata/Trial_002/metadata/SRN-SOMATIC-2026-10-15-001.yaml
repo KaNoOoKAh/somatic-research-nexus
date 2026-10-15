@@ -1,0 +1,268 @@
+record_id: SRN-SOMATIC-2026-10-15-001
+
+metadata:
+  schema_version: "1.0"
+  repository: "somatic-research-nexus"
+  record_type: "raw_subjective_observation"
+  authored_by: "ICeI3"
+  created_date: "2026-10-15"
+  language: "en-US"
+  preservation_priority: "high"
+  indexing_enabled: true
+
+repository_index:
+
+  primary_domains:
+    - somatic-awareness
+    - proprioception
+    - interoception
+
+  secondary_domains:
+    - posture-analysis
+    - respiratory-awareness
+    - sensory-mapping
+    - motor-control
+
+  related_systems:
+    - body-awareness
+    - sensory-observation
+    - attention-state-tracking
+    - subjective-reporting
+    - environmental-correlation
+
+  data_confidence:
+    observation_accuracy: self_reported
+    timestamp_accuracy: recorded_during_session
+    interpretation_level: minimal
+
+
+classification:
+  project: somatic-research-nexus
+  domain: somatic-awareness
+  record_type: raw_subjective_observation
+  status: complete
+  preservation_mode: original_language_prioritized
+
+researcher:
+  identity_marker: ICeI3
+
+session:
+  date_local: "2026-10-15"
+  timezone: "Pacific/Honolulu"
+  start_time: "06:17"
+  end_time: "06:41"
+
+context:
+  activity:
+    - contraction_cycle
+    - relaxation_cycle
+    - somatic_observation
+    - internal_sensory_tracking
+  posture_primary:
+    - supine
+    - futon
+    - pelvis_near_wall
+    - legs_elevated_against_wall
+
+observations:
+
+  - timestamp: "06:17"
+    observation: >
+      Initiated contraction/tension cycle from the feet to the head.
+
+  - timestamp: "06:19"
+    observation: >
+      Continued contraction at the foot level without moving.
+      The force felt super light.
+      The air felt cool around the feet.
+
+  - timestamp: "06:21"
+    observation: >
+      Relaxed state.
+      The pulse or force felt like it was thinning out and
+      covering more skin areas now.
+      It no longer felt heavy at the bottoms of the feet.
+
+  - timestamp: "06:24-06:25"
+    observation: >
+      Soft inhalation initiated.
+      Major shift in cranial and nasal pressure.
+      Air felt like it entered the left side only unless
+      concentration and effort were applied to include the right side.
+
+  - timestamp: "06:31-06:32"
+    observation: >
+      Strange response below the nose inside the face.
+      Pulsating sensation felt in the front of the throat.
+
+  - timestamp: "06:34"
+    observation: >
+      Saliva produced in the rear of the mouth and throat
+      tasted sweet.
+
+  - timestamp: "06:35"
+    observation: >
+      Brief auditory tone appeared in the right ear and
+      quickly disappeared.
+
+  - timestamp: "06:36"
+    observation: >
+      Body lying down flat on futon.
+      Back flat.
+      Pelvis near wall.
+      Knees bent above pelvis and angled outward/upward.
+      Shins angled inward at different angles.
+      Plugged feeling present above the right side of the lip
+      but below the nostril.
+
+  - timestamp: "06:41"
+    observation: >
+      Tracking paused to document elongated hard growth
+      observed on cat.
+
+raw_subjective_context:
+
+  proprioception:
+    observation: >
+      When eyes were closed and/or attention was not directed
+      toward the legs, the legs felt straight and flat-footed.
+
+  feet_force:
+    observation: >
+      Force felt across the entire area of the bottoms
+      of the feet.
+      Force felt evenly distributed despite body position.
+
+  vibration:
+    observation: >
+      Force described as pulse, vibration, radiation,
+      electrical buzz, or current-like sensation.
+
+  shin_knee_region:
+    observation: >
+      Sensation present in fronts of shins and knees.
+
+  contraction_method:
+    observation: >
+      Applied same contraction/control pattern previously used
+      while wearing dress shoes at grandmother's celebration of life.
+      Pattern involved stabilizing feet, maintaining flat-foot
+      structure, and applying pulling/contraction through feet
+      and area below knees.
+
+  relaxation_response:
+    observation: >
+      When contraction was released,
+      force became more full and dull at the bottoms of the feet.
+
+  hip_response:
+    observation: >
+      Moving phone from left side of body to center of chest
+      coincided with unusual movement sensation in hip.
+      No pain.
+      Felt as if bone pushed against muscle or tissue.
+
+  left_hip_activity:
+    observation: >
+      During contraction cycles,
+      left hip/joint region repeatedly produced involuntary movement.
+      Movement felt side-to-side but did not feel like the purpose
+      of the movement.
+      Felt as though up/down directional activity was producing
+      movement near that area.
+
+posture_metadata:
+
+  image_01:
+    time_reference: "approx_06:21"
+    description: >
+      Bare feet resting vertically against wall.
+      Left foot rotated outward.
+      Left foot positioned lower than right foot.
+
+  image_02:
+    time_reference: "approx_06:36"
+    description: >
+      Legs bent asymmetrically against wall.
+      Left foot lower and flatter against wall.
+      Right foot slightly elevated.
+
+  image_03:
+    time_reference: "06:41"
+    description: >
+      Close-up image of elongated hard horn-like growth
+      protruding through cat fur.
+
+sensor_domains:
+
+  - proprioception
+  - interoception
+  - respiration
+  - tactile_perception
+  - pressure_perception
+  - force_perception
+  - vibration_perception
+  - auditory_perception
+  - gustatory_perception
+  - posture_awareness
+  - motor_control
+  - joint_position_awareness
+  - attention_state_tracking
+
+cross_reference_keywords:
+
+  somatic-awareness
+  body-mapping
+  proprioception
+  interoception
+  sensory-tracking
+  sensory-localization
+  force-distribution
+  vibration-sensation
+  pulse-sensation
+  radiation-sensation
+  electrical-buzz
+  contraction-cycle
+  relaxation-cycle
+  muscular-control
+  motor-pattern
+  stabilization-pattern
+  foot-stabilization
+  lower-leg-activation
+  shin-awareness
+  knee-awareness
+  hip-movement
+  joint-awareness
+  posture-variation
+  legs-up-wall
+  supine-position
+  respiratory-awareness
+  unilateral-airflow
+  nasal-pressure
+  cranial-pressure
+  facial-sensation
+  throat-pulsation
+  auditory-tone
+  transient-tone
+  sweet-saliva
+  sensory-shift
+  attention-modulation
+  awareness-practice
+  subjective-observation
+  raw-observation-data
+
+data_integrity:
+
+  source_type: first_person_observation
+  interpretation_status: intentionally_uninterpreted
+  normalization_level: minimal
+  medical_claims: none
+  environmental_measurements: none
+  image_count: 3
+
+notes_for_future_systems: >
+  Keywords are provided for indexing, clustering, retrieval,
+  semantic search, correlation analysis, and future comparison
+  against other somatic observation records. Keywords do not
+  imply causation, diagnosis, mechanism, or validation of any
+  hypothesis. Observations remain subjective first-person reports.
