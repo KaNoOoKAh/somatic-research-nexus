@@ -1,0 +1,40 @@
+{
+  "header": {
+    "protocol_version": "1.1",
+    "signature": "ICeI3",
+    "reference_marker": "htps:/192.168.1.12",
+    "timestamp_utc": "2026-10-15T17:39:33Z",
+    "timestamp_local": "2026-10-15T07:39:33-10:00",
+    "location": {
+      "address": "3741 Poka Place, Honolulu, HI 96816",
+      "coordinates": "21.2858, -157.8025"
+    }
+  },
+  "trial_metadata": {
+    "trial_id": "Trial_001",
+    "event_type": "START",
+    "target_directory": "trials\\Trial_001"
+  },
+  "objective_telemetry": {
+    "environmental_influences": {
+      "temperature_f": 77.0,
+      "relative_humidity_percent": 76,
+      "surface_pressure_hpa": 1010.6,
+      "solar_radiation_w_m2": 87.0,
+      "cloud_cover_percent": 21,
+      "wind_speed_mph": 10.8,
+      "wind_gust_mph": 27.5,
+      "data_source": "Open-Meteo Environmental Reanalysis API"
+    },
+    "system_state": {
+      "platform": "win32",
+      "python_version": "3.12.10",
+      "pipeline_status": "ACTIVE"
+    }
+  },
+  "subjective_somatic": {
+    "energy_level": 4,
+    "focus_clarity": 5,
+    "observational_state": "Trial_002 in github.com/kanoookah/somatic-research-nexus will provide a detailed look at what I did to attempt to actually feel what was occuring during the early morning at 6:00am. It does not mean that I was witnessing or feeling something new that is occuring. What it means is that I could just be applying effort and concentration to learning about my body and the environment. I have a clear mindset/inner body at the current time. But I do not have actual knowledge of what is truly occuring. My mind is exhibiting evidence of a body/muscle relationship and nothing else."
+  }
+}
