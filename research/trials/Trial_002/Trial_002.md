@@ -4,9 +4,10 @@ status: recorded
 protocol_version: "1.1"
 
 timestamps:
-  start_local: "2026-10-15T06:17:00-10:00"
-  end_local: "2026-10-15T06:41:00-10:00"
+  date_local: "2026-10-15"
   timezone: "Pacific/Honolulu"
+  source: "researcher recorded"
+
 
 subject:
   researcher_id: "ICeI3/KaNoOokAh/Lumen"
