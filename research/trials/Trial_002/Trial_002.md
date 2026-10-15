@@ -16,7 +16,7 @@ observation_sequence:
   - time: "06:17"
     category: contraction_cycle
     observation: >
-      Initiated contraction/tension cycle from feet to head.
+      Initiated contraction/tension cycle from feet to head.While lying down with my back on a futon, bottom of pelvis in the air, both legs extended upwards against the drywall.
 
   - time: "06:19"
     category: foot_sensation
