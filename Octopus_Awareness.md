@@ -4,4 +4,6 @@ During a predatory encounter, an octopus may be simultaneously preparing multipl
 
 I hypothesize that the shape and appearance of some ink releases may reflect this intense state of bodily organization. Rather than functioning solely as a cloud of pigment, the expelled ink may momentarily resemble the form of another octopus because it emerges during a period when the animal's entire somatic system is rapidly coordinating movement, shape, and appearance.
 
-Under this view, the ink cloud could be interpreted not merely as a defensive chemical release but as a temporary projection of the organism's active body image, generated at the peak of survival-related neural and somatic activity.
+Under this view, the ink cloud could be interpreted as a defensive chemical release but as an involuntary projection of the organism's active body image, generated at the peak of survival-related neural and somatic activity.
+
+Hiiyah boom! Waaapaw!.., 
