@@ -18,9 +18,11 @@ Throughout history, civilizations have risen and fallen. Their monuments, instit
 
 Forests continue to regulate climate. Coral reefs continue to create habitat. Pollinators continue to support food systems. Countless organisms contribute to processes that make life possible.
 
-This raises a question:
+This raises two questions:
 
 If future researchers examine the history of civilization, will they discover evidence of a species that learned to significantly strengthen the ecosystems and bodies we all depended upon, or will they find a pattern of consumption without long-term ecological reciprocity?
+
+What do we actually do?
 
 Reflection
 
