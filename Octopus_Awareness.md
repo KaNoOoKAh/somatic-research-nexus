@@ -6,4 +6,4 @@ I hypothesize that the shape and appearance of some ink releases may reflect thi
 
 Under this view, the ink cloud could be interpreted as a defensive chemical release but as an involuntary projection of the organism's active body image, generated at the peak of survival-related neural and somatic activity.
 
-Hiiyah boom! Waaapaw!.., 
+
