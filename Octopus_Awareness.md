@@ -37,6 +37,6 @@ These organisms participate in systems larger than themselves.
 
 Humanity possesses an unusual ability to consciously organize labor, knowledge, resources, and technology. This capability presents a unique possibility: the intentional improvement of ecological conditions.
 
-Perhaps a mature civilization is not defined by what it extracts from the world but by what it contributes back to the systems that sustain it. 
+Perhaps a true civilization is not defined by what it extracts from the world.  
 
 
