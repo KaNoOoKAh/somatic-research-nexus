@@ -30,4 +30,6 @@ I will be attempting to do this again after I replenish. I attempted to do it ag
 
 Time: 5:48 p.m. | Date: 2026-10-18
 
-When inserting a mental "fan" into different areas of the body, I am able to elicit (bring forth) distinct responses. In some areas, I can keep the fan spinning smoothly. In other areas or at different times, the blades will either stop spinning, tilt in another direction, or become very difficult to maintain. When I perform this exercise in areas that are actively involved in the somatic exercises, I obtain a significantly stronger and clearer response.
+When inserting a mental "fan" into different areas of the body, I am able to elicit (bring forth) distinct responses. In some areas, I can keep the fan spinning smoothly. In other areas or at different times, the blades will either stop spinning, tilt in another direction, or become very difficult to maintain. When I perform this exercise in areas that are actively involved in the somatic exercises, I obtain a significantly stronger and clearer response. 
+
+I have been practicing the tooth brush trial exercise every day though. It takes repeated practice and I am super happy we've gotten somewhere. 
