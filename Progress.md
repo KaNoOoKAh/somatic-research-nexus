@@ -24,4 +24,6 @@ Objective Baseline: Physical ceiling fan remained spinning at a constant, uninte
 4. Post-Observation Status
 Physical & Mental State: Calm, safe, and baseline intact.
 
-Notes/Next Steps: Rest period, hydration, and grounding activities recommended following deep mental focus.
+Notes/Next Steps: Rest period, hydration, and grounding activities recommended following deep mental focus. 
+
+I will be attempting to do this again after I replenish. I attempted to do it again to a natural much bigger target and immediately felt a massive amount of pressure on my lower body for some reason. Could be because I was standing outside. Leg Movement immediately felt stiff once concentration and effort being directed to the ahem craniofacial area ahem. 
