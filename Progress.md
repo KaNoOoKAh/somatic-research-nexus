@@ -26,4 +26,8 @@ Physical & Mental State: Calm, safe, and baseline intact.
 
 Notes/Next Steps: Rest period, hydration, and grounding activities recommended following deep mental focus. 
 
-I will be attempting to do this again after I replenish. I attempted to do it again to a natural much bigger target and immediately felt a massive amount of pressure on my lower body for some reason. Could be because I was standing outside. Leg Movement immediately felt stiff once concentration and effort being directed to the ahem craniofacial area ahem was stopped. 
+I will be attempting to do this again after I replenish. I attempted to do it again toward a naturally much bigger target and immediately felt a massive amount of pressure on my lower body for some reason. It could be because I was standing outside. Leg movement immediately felt stiff once concentration and effort directed to the craniofacial area ceased.
+
+Time: 5:48 p.m. | Date: 2026-10-18
+
+When inserting a mental "fan" into different areas of the body, I am able to elicit (bring forth) distinct responses. In some areas, I can keep the fan spinning smoothly. In other areas or at different times, the blades will either stop spinning, tilt in another direction, or become very difficult to maintain. When I perform this exercise in areas that are actively involved in the somatic exercises, I obtain a significantly stronger and clearer response.
